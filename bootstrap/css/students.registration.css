@@ -1,0 +1,146 @@
+
+body{
+	background:url('nature-wallpaper-10091355.jpg') no-repeat;
+	overflow:no scroll;
+	background-size: cover;
+	font-family: Arial;
+	color:white;
+	opacity:10;  
+}
+
+.loginBox
+{
+	top:20%;
+	left:27%;
+	transform: translate(-50%.-50%);
+	width:500px;
+	height:1050px;
+	padding:80px 40px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+	border-radius: 20px;
+	float: left;
+	margin-left: 150px;
+	margin-top: 10px;
+}
+.loginBox2
+{
+	top:7%;
+	left:7%;
+	transform: translate(-50%.-50%);
+	width:500px;
+	height:1050px;
+	padding:80px 40px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+	border-radius: 20px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.loginBox3
+{
+	top:10%;
+	left:7%;
+	transform: translate(-50%.-50%);
+	width:500px;
+	height:1050px;
+	padding:80px 40px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+	border-radius: 20px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.text_box{
+	font-weight: bold;
+	font-size: 12px;
+	color: blue;
+	padding-left: 30px;
+}
+.logo{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	overflow:hidden;
+	position:absolute;
+	top:calc(-100px/2);
+	left:calc(50% - 50px);
+	margin-top: 70px;
+}
+
+.loginBoxHeader h1
+{
+font-family:Helvetica,Ariel,sans-serif;
+position:center;
+}
+
+.loginBoxHeader h1 span{
+	font-family:Helvetica,Ariel,sans-serif;
+	color:orange;
+}
+
+.loginbox a
+{
+	color:#fff;
+	font-size: 14px;
+	font weight: bold;
+	text-decoration:none;
+}
+
+.loginbox p
+{
+	margin:0;
+	padding:0;
+	font-weight:bold;
+
+}
+.loginbox input
+{
+	width:100%;
+	margin-bottom:20px;
+}
+
+.loginbox2 input
+{
+	width:100%;
+	margin-bottom:20px;
+}
+
+.loginbox3 input
+{
+	width:100%;
+	margin-bottom:20px;
+}
+
+.loginbox input[type="text"],
+.loginbox input[type="password"]
+{
+	border:none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+}
+.loginbox2 input[type="text"],
+.loginbox2 input[type="password"]
+{
+	border:none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+}
+.loginbox3 input[type="text"],
+.loginbox3 input[type="password"]
+{
+	border:none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+}

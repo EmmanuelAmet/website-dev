@@ -1,0 +1,68 @@
+*
+{
+	margin: 0px;
+}
+.head
+{
+	background-color: silver;
+	color: red;
+	font-weight: bolder;
+}
+.stdDtetailContent
+{
+	border-collapse: collapse;
+	color: red;
+	padding: 5px;
+	width: 150px;
+	text-align: left;
+}
+
+.userDetails
+{
+	position:absolute;
+	top:5%;
+	left:12%;
+	transform: translate(-50%.-50%);
+	width:370px;
+	height:475px;
+	padding:80px 40px;
+	border-radius: 20px;
+	color: red;
+}
+.stdlogo
+{
+	width: 80px;
+	height: 80px;
+	padding-left: 60px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.studentAccount
+{
+	color: red;
+}
+.name,.serviceInfo,.personalDetail,.varifyDetails,.registration, .result, .survey,.fees,.timetable, .FAQ, .resetPassword, .logout
+{
+	color: #0000CC;
+	padding: 5px;
+	width: 230px;
+	text-align: left;
+}
+.studentDetailTitle
+{
+	color: red;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+.stdDtetailTableTitle
+{
+	border-collapse: collapse;
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+	background-color: blue;
+}
+table
+{
+	border-collapse: collapse;
+}
